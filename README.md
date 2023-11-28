@@ -1,4 +1,4 @@
-Discord Cloud Bot
+Kalli_Connect Bot
 
 Este é um bot Discord desenvolvido em Python usando a biblioteca Discord.py. O bot possui funcionalidades para interagir com um servidor Kali Linux via SSH, criar contas na nuvem em provedores como AWS, GCP e Azure, e até mesmo realizar conversas usando o modelo BART.
 
